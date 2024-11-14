@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd xmlns="https://pmd-code.org/schema/cpd-report"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         pmdVersion="7.3.0"
+         timestamp="2024-10-31T11:21:51.9506243Z"
+         version="1.0.0"
+         xsi:schemaLocation="https://pmd-code.org/schema/cpd-report https://pmd.github.io/schema/cpd-report_1_0_0.xsd">
+   <file path="C:\Users\Marcos\proyecto_lab_maven\my-app\src\main\java\com\es\ull\app\App.java"
+         totalNumberOfTokens="25"/>
+</pmd-cpd>
